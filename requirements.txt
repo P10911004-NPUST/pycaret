@@ -286,7 +286,7 @@ pytoolconfig==1.2.5
 pytz==2022.7.1
 pyviz-comms==2.3.2
 PyWavelets==1.4.1
-pywin32==306
+pywin32
 pywin32-ctypes==0.2.1
 pywinpty==2.0.10
 PyYAML==6.0
