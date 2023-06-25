@@ -1,3 +1,10 @@
+# General files
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -124,6 +131,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+pyenv/
 ENV/
 env.bak/
 venv.bak/
