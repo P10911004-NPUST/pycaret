@@ -286,7 +286,6 @@ pytoolconfig==1.2.5
 pytz==2022.7.1
 pyviz-comms==2.3.2
 PyWavelets==1.4.1
-pywinpty==2.0.10
 PyYAML==6.0
 pyzmq==25.1.0
 QDarkStyle==3.1
